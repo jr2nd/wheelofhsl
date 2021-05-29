@@ -1,0 +1,12 @@
+#inputs {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+#inputs{
+  display: flex;
+  flex-flow: column wrap;
+}
+input {
+  max-width: 10ch;
+}
